@@ -1,1 +1,1 @@
-Это учебные проекты, работа над которыми велась в рамках курса по анализу данных в Яндекс.Практикуме.
+These are study projects developed for Practicum by Yandex Data Analysis course.
